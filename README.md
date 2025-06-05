@@ -7,7 +7,7 @@ This project was created to generate tournament formats for Mario Kart 64 but sh
 This project makes the following assumptions regarding format validity:
 - Every player should play the same number of rounds
 - The number of players per round should be the same for all rounds
-- The difference between the maximum times a player should play one opponent and the minimum times a player should play a different opponent should never exceed 1 (e.g., Assuming numPlayers=4, Player A should never play Player B twice until they have also played Player C and Player D once).
+- The difference between the maximum times a player should play one opponent and the minimum times a player should play a different opponent should never exceed 1 (e.g., assuming numPlayers=4, Player A should never play Player B twice unless they have also played Player C and Player D once).
 
 ## Variables
 The following can be adjusted to generate different formats:
